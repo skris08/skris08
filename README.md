@@ -1,4 +1,4 @@
-![](https://visitor-badge.glitch.me/badge?page_id=skrishnan2001.skrishnan2001)
+<!--![](https://github.com/skris08/skris08/blob/main/White%20and%20Blue%20Minimalist%20Aesthetic%20Quotes%20Poster%20(Landscape).png?raw=true)-->
 
 <img src="Header.png" alt="Header" />
 
