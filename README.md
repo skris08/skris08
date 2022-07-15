@@ -21,8 +21,8 @@
 </table>
 
 ### :link: &nbsp;Connect with me
-<a href="mailto:shunmugakrishnan08@gmail.com"><img src="https://img.shields.io/badge/-skrishnan2001@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/shunmuga-krishnan-7a41a5114/"><img src="https://img.shields.io/badge/-Krishnan%20S-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:shunmugakrishnan08@gmail.com"><img src="https://img.shields.io/badge/-shunmugakrishnan08@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shunmuga-krishnan-7a41a5114/"><img src="https://img.shields.io/badge/-shunmuga%20krishnan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <!-- <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="500px"/>
 </div> -->
